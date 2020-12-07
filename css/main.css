@@ -4,12 +4,9 @@
 	border: none;
 }
 
-body {
-	font-family: 16px;
-	background-color: black;
-	color: white;
-}
 
 .hidden { 
 	display: none;
  }
+
+ .data-img { width: 40%; max-width: 100%; }
