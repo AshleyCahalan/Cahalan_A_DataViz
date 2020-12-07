@@ -14,5 +14,4 @@ plt.plot(years, pops, color=(0/225, 100/225, 100/225), linewidth=6.0)
 plt.ylabel("Population by Billions")
 plt.xlabel("Population Growth by Year")
 plt.title("Global Population Growth - 100 Years", pad=20, **hfont)
-
 plt.show()
